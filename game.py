@@ -1,6 +1,6 @@
 import time
 
-from player import HumanPlayer, RandomComputerPlayer, GeniusComputerPlayer
+from player import HumanPlayer, GeniusComputerPlayer
 
 
 class TicTacToe:
